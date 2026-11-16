@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+opencv-python-headless>=4.8
+torch>=2.2
+pytest>=8.0
+# Install the CARLA 0.9.16 PythonAPI for your platform separately.
+# Add the CARLA 0.9.16 PythonAPI package to PYTHONPATH.

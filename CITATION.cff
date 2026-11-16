@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+title: "CARLA Lane Keeping — Full DQN"
+type: software
+authors:
+  - family-names: "Gholizadeh"
+    given-names: "Ahmadreza"
+repository-code: "https://github.com/AhmadrezaGholizade/CARLA-Lane-Keeping-Full"
+license: MIT
+doi: 10.5281/zenodo.24279319
